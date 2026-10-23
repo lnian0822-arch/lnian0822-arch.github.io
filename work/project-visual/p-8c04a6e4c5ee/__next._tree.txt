@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/27owgd31r67go.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"category","param":{"type":"d","key":"project-visual","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"project","param":{"type":"d","key":"p-8c04a6e4c5ee","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"qyzCLSXdr4saOhcSDxdtM"}

@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[74825,["/_next/static/chunks/32391u-v_tlo9.js","/_next/static/chunks/3hqaddou8d65y.js"],""]
+3:I[24260,["/_next/static/chunks/32391u-v_tlo9.js","/_next/static/chunks/3hqaddou8d65y.js"],"CaseLibrary"]
+4:I[7968,["/_next/static/chunks/32391u-v_tlo9.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[7968,["/_next/static/chunks/32391u-v_tlo9.js"],"ViewportBoundary"]
+a:I[7968,["/_next/static/chunks/32391u-v_tlo9.js"],"MetadataBoundary"]
+b:I[13770,["/_next/static/chunks/32391u-v_tlo9.js"],"IconMark"]
+d:I[1572,["/_next/static/chunks/32391u-v_tlo9.js"],"default"]
+e:I[58367,["/_next/static/chunks/32391u-v_tlo9.js"],"default"]
+:HL["/_next/static/chunks/41vbtmpkg5u4h.css","style"]
+8:X
+10:X
+10:C
+0:{"buildId":"_bvXpbHCJ5PjjU-pWj9tC","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"shell case-library-page","children":[["$","$L2",null,{"href":"/#work-index","className":"case-back","children":"← 返回作品目录"}],["$","header",null,{"className":"case-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"section-label","children":"档案 / 案例库"}],["$","h1",null,{"children":"案例库"}]]}],["$","p",null,{"children":"浏览视觉案例与报告页面。"}]]}],["$","$L3",null,{"entries":[]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3hqaddou8d65y.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"案例库 · 刘念作品集 · 刘念作品集"}],["$","meta","1",{"name":"description","content":"刘念的个人作品集。以品牌视觉为核心，延展至活动传播、项目视觉、人物IP、画册、内容视觉与AI动态影像。"}],["$","link","2",{"rel":"icon","href":"/favicon.svg"}],["$","$Lb","3",{}]]}]}]}],null]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/41vbtmpkg5u4h.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/32391u-v_tlo9.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"跳转到正文"}],["$","header",null,{"id":"top","className":"site-header shell","children":[["$","$L2",null,{"href":"/","className":"wordmark","aria-label":"刘念作品集首页","children":[["$","span",null,{"children":"刘念"}],["$","span",null,{"className":"brand-divider"}],["$","small",null,{"children":"品牌视觉设计师"}]]}],["$","nav",null,{"aria-label":"主导航","children":[["$","$L2",null,{"href":"/#profile","children":"关于我"}],["$","$L2",null,{"href":"/#work-index","children":"作品"}],["$","$L2",null,{"href":"/case-library/","children":"案例库"}],["$","$L2",null,{"href":"/#contact","children":"联系"}]]}],["$","span",null,{"className":"header-period","children":"2022—2026"}]]}],["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}],"notFound":[["$","main",null,{"id":"main","className":"not-found shell","children":[["$","p",null,{"className":"section-label","children":"404"}],["$","h1",null,{"children":"这件作品，尚未在此展出。"}],["$","$L2",null,{"href":"/#work-index","children":"返回作品目录"}]]}],[]]}],["$","footer",null,{"className":"footer shell","children":[["$","span",null,{"children":["© 2026 ","刘念"," · 个人作品集"]}],["$","span",null,{"children":"以视觉，连接品牌与人。"}],["$","a",null,{"href":"#top","children":"回到顶部 ↑"}]]}]]}]}]]}],"isPartial":"$@11","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+6:null
+8:300
+13:true
+8:C
+12:0
+c:"$undefined"
+f:"$undefined"
+11:"$undefined"
+7:"$undefined"
